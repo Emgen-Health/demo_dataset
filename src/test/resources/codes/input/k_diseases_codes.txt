@@ -1,0 +1,394 @@
+Second Level Code ID	Second Level Code Description
+K00.0	Anodontia
+K00.1	Supernumerary teeth
+K00.2	Abnormalities of size and form of teeth
+K00.3	Mottled teeth
+K00.4	Disturbances in tooth formation
+K00.5	Hereditary disturbances in tooth structure
+K00.6	Disturbances in tooth eruption
+K00.7	Teething syndrome
+K00.8	Other disorders of tooth development
+K00.9	Disorder of tooth development
+K02.3	Arrested dental caries
+K02.5	Dental caries on pit and fissure surface
+K02.6	Dental caries on smooth surface
+K02.7	Dental root caries
+K02.9	Dental caries
+K03.0	Excessive attrition of teeth
+K03.1	Abrasion of teeth
+K03.2	Erosion of teeth
+K03.3	Pathological resorption of teeth
+K03.4	Hypercementosis
+K03.5	Ankylosis of teeth
+K03.6	Deposits [accretions] on teeth
+K03.7	Posteruptive color changes of dental hard tissues
+K03.8	Other specified diseases of hard tissues of teeth
+K03.9	Disease of hard tissues of teeth
+K04.0	Pulpitis
+K04.1	Necrosis of pulp
+K04.2	Pulp degeneration
+K04.3	Abnormal hard tissue formation in pulp
+K04.4	Acute apical periodontitis of pulpal origin
+K04.5	Chronic apical periodontitis
+K04.6	Periapical abscess with sinus
+K04.7	Periapical abscess without sinus
+K04.8	Radicular cyst
+K04.9	Other and unspecified diseases of pulp and periapical tissues
+K05.0	Acute gingivitis
+K05.1	Chronic gingivitis
+K05.2	Aggressive periodontitis
+K05.3	Chronic periodontitis
+K05.4	Periodontosis
+K05.5	Other periodontal diseases
+K05.6	Periodontal disease
+K06.0	Gingival recession
+K06.1	Gingival enlargement
+K06.2	Gingival and edentulous alveolar ridge lesions associated with trauma
+K06.3	Horizontal alveolar bone loss
+K06.8	Other specified disorders of gingiva and edentulous alveolar ridge
+K06.9	Disorder of gingiva and edentulous alveolar ridge
+K08.0	Exfoliation of teeth due to systemic causes
+K08.1	Complete loss of teeth
+K08.2	Atrophy of edentulous alveolar ridge
+K08.3	Retained dental root
+K08.4	Partial loss of teeth
+K08.5	Unsatisfactory restoration of tooth
+K08.8	Other specified disorders of teeth and supporting structures
+K08.9	Disorder of teeth and supporting structures
+K09.0	Developmental odontogenic cysts
+K09.1	Developmental (nonodontogenic) cysts of oral region
+K09.8	Other cysts of oral region
+K09.9	Cyst of oral region
+K11.0	Atrophy of salivary gland
+K11.1	Hypertrophy of salivary gland
+K11.2	Sialoadenitis
+K11.3	Abscess of salivary gland
+K11.4	Fistula of salivary gland
+K11.5	Sialolithiasis
+K11.6	Mucocele of salivary gland
+K11.7	Disturbances of salivary secretion
+K11.8	Other diseases of salivary glands
+K11.9	Disease of salivary gland
+K12.0	Recurrent oral aphthae
+K12.1	Other forms of stomatitis
+K12.2	Cellulitis and abscess of mouth
+K12.3	Oral mucositis (ulcerative)
+K13.0	Diseases of lips
+K13.1	Cheek and lip biting
+K13.2	Leukoplakia and other disturbances of oral epithelium, including tongue
+K13.3	Hairy leukoplakia
+K13.4	Granuloma and granuloma-like lesions of oral mucosa
+K13.5	Oral submucous fibrosis
+K13.6	Irritative hyperplasia of oral mucosa
+K13.7	Other and unspecified lesions of oral mucosa
+K14.0	Glossitis
+K14.1	Geographic tongue
+K14.2	Median rhomboid glossitis
+K14.3	Hypertrophy of tongue papillae
+K14.4	Atrophy of tongue papillae
+K14.5	Plicated tongue
+K14.6	Glossodynia
+K14.8	Other diseases of tongue
+K14.9	Disease of tongue
+K20.0	Eosinophilic esophagitis
+K20.8	Other esophagitis
+K20.9	Esophagitis
+K21.0	Gastro-esophageal reflux disease with esophagitis
+K21.9	Gastro-esophageal reflux disease without esophagitis
+K22.0	Achalasia of cardia
+K22.1	Ulcer of esophagus
+K22.2	Esophageal obstruction
+K22.3	Perforation of esophagus
+K22.4	Dyskinesia of esophagus
+K22.5	Diverticulum of esophagus, acquired
+K22.6	Gastro-esophageal laceration-hemorrhage syndrome
+K22.7	Barrett's esophagus
+K22.8	Other specified diseases of esophagus
+K22.9	Disease of esophagus
+K25.0	Acute gastric ulcer with hemorrhage
+K25.1	Acute gastric ulcer with perforation
+K25.2	Acute gastric ulcer with both hemorrhage and perforation
+K25.3	Acute gastric ulcer without hemorrhage or perforation
+K25.4	Chronic or unspecified gastric ulcer with hemorrhage
+K25.5	Chronic or unspecified gastric ulcer with perforation
+K25.6	Chronic or unspecified gastric ulcer with both hemorrhage and perforation
+K25.7	Chronic gastric ulcer without hemorrhage or perforation
+K25.9	Gastric ulcer, unspecified as acute or chronic, without hemorrhage or perforation
+K26.0	Acute duodenal ulcer with hemorrhage
+K26.1	Acute duodenal ulcer with perforation
+K26.2	Acute duodenal ulcer with both hemorrhage and perforation
+K26.3	Acute duodenal ulcer without hemorrhage or perforation
+K26.4	Chronic or unspecified duodenal ulcer with hemorrhage
+K26.5	Chronic or unspecified duodenal ulcer with perforation
+K26.6	Chronic or unspecified duodenal ulcer with both hemorrhage and perforation
+K26.7	Chronic duodenal ulcer without hemorrhage or perforation
+K26.9	Duodenal ulcer, unspecified as acute or chronic, without hemorrhage or perforation
+K27.0	Acute peptic ulcer, site unspecified, with hemorrhage
+K27.1	Acute peptic ulcer, site unspecified, with perforation
+K27.2	Acute peptic ulcer, site unspecified, with both hemorrhage and perforation
+K27.3	Acute peptic ulcer, site unspecified, without hemorrhage or perforation
+K27.4	Chronic or unspecified peptic ulcer, site unspecified, with hemorrhage
+K27.5	Chronic or unspecified peptic ulcer, site unspecified, with perforation
+K27.6	Chronic or unspecified peptic ulcer, site unspecified, with both hemorrhage and perforation
+K27.7	Chronic peptic ulcer, site unspecified, without hemorrhage or perforation
+K27.9	Peptic ulcer, site unspecified, unspecified as acute or chronic, without hemorrhage or perforation
+K28.0	Acute gastrojejunal ulcer with hemorrhage
+K28.1	Acute gastrojejunal ulcer with perforation
+K28.2	Acute gastrojejunal ulcer with both hemorrhage and perforation
+K28.3	Acute gastrojejunal ulcer without hemorrhage or perforation
+K28.4	Chronic or unspecified gastrojejunal ulcer with hemorrhage
+K28.5	Chronic or unspecified gastrojejunal ulcer with perforation
+K28.6	Chronic or unspecified gastrojejunal ulcer with both hemorrhage and perforation
+K28.7	Chronic gastrojejunal ulcer without hemorrhage or perforation
+K28.9	Gastrojejunal ulcer, unspecified as acute or chronic, without hemorrhage or perforation
+K29.0	Acute gastritis
+K29.2	Alcoholic gastritis
+K29.3	Chronic superficial gastritis
+K29.4	Chronic atrophic gastritis
+K29.5	Unspecified chronic gastritis
+K29.6	Other gastritis
+K29.7	Gastritis
+K29.8	Duodenitis
+K29.9	Gastroduodenitis
+K31.0	Acute dilatation of stomach
+K31.1	Adult hypertrophic pyloric stenosis
+K31.2	Hourglass stricture and stenosis of stomach
+K31.3	Pylorospasm
+K31.4	Gastric diverticulum
+K31.5	Obstruction of duodenum
+K31.6	Fistula of stomach and duodenum
+K31.7	Polyp of stomach and duodenum
+K31.8	Other specified diseases of stomach and duodenum
+K31.9	Disease of stomach and duodenum
+K35.2	Acute appendicitis with generalized peritonitis
+K35.3	Acute appendicitis with generalized peritonitis
+K35.8	Other and unspecified acute appendicitis
+K38.0	Hyperplasia of appendix
+K38.1	Appendicular concretions
+K38.2	Diverticulum of appendix
+K38.3	Fistula of appendix
+K38.8	Other specified diseases of appendix
+K38.9	Disease of appendix
+K40.0	Bilateral inguinal hernia, with obstruction, without gangrene
+K40.1	Bilateral inguinal hernia, with gangrene
+K40.2	Bilateral inguinal hernia, without obstruction or gangrene
+K40.3	Unilateral inguinal hernia, with obstruction, without gangrene
+K40.4	Unilateral inguinal hernia, with gangrene
+K40.9	Unilateral inguinal hernia, without obstruction or gangrene
+K41.0	Bilateral femoral hernia, with obstruction, without gangrene
+K41.1	Bilateral femoral hernia, with gangrene
+K41.2	Bilateral femoral hernia, without obstruction or gangrene
+K41.3	Unilateral femoral hernia, with obstruction, without gangrene
+K41.4	Unilateral femoral hernia, with gangrene
+K41.9	Unilateral femoral hernia, without obstruction or gangrene
+K42.0	Umbilical hernia with obstruction, without gangrene
+K42.1	Umbilical hernia with gangrene
+K42.9	Umbilical hernia without obstruction or gangrene
+K43.0	Incisional hernia with obstruction, without gangrene
+K43.1	Incisional hernia with gangrene
+K43.2	Incisional hernia without obstruction or gangrene
+K43.3	Parastomal hernia with obstruction, without gangrene
+K43.4	Parastomal hernia with gangrene
+K43.5	Parastomal hernia without obstruction or gangrene
+K43.6	Other and unspecified ventral hernia with obstruction, without gangrene
+K43.7	Other and unspecified ventral hernia with gangrene
+K43.9	Ventral hernia without obstruction or gangrene
+K44.0	Diaphragmatic hernia with obstruction, without gangrene
+K44.1	Diaphragmatic hernia with gangrene
+K44.9	Diaphragmatic hernia without obstruction or gangrene
+K45.0	Other specified abdominal hernia with obstruction, without gangrene
+K45.1	Other specified abdominal hernia with gangrene
+K45.8	Other specified abdominal hernia without obstruction or gangrene
+K46.0	Unspecified abdominal hernia with obstruction, without gangrene
+K46.1	Unspecified abdominal hernia with gangrene
+K46.9	Unspecified abdominal hernia without obstruction or gangrene
+K50.0	Crohn's disease of small intestine
+K50.1	Crohn's disease of large intestine
+K50.8	Crohn's disease of both small and large intestine
+K50.9	Crohn's disease
+K52.0	Gastroenteritis and colitis due to radiation
+K52.1	Toxic gastroenteritis and colitis
+K52.2	Allergic and dietetic gastroenteritis and colitis
+K52.3	Indeterminate colitis
+K52.8	Other specified noninfective gastroenteritis and colitis
+K52.9	Noninfective gastroenteritis and colitis
+K55.0	Acute vascular disorders of intestine
+K55.1	Chronic vascular disorders of intestine
+K55.2	Angiodysplasia of colon
+K55.3	Necrotizing enterocolitis
+K55.8	Other vascular disorders of intestine
+K55.9	Vascular disorder of intestine
+K57.0	Diverticulitis of small intestine with perforation and abscess
+K57.1	Diverticular disease of small intestine without perforation or abscess
+K57.2	Diverticulitis of large intestine with perforation and abscess
+K57.3	Diverticular disease of large intestine without perforation or abscess
+K57.4	Diverticulitis of both small and large intestine with perforation and abscess
+K57.5	Diverticular disease of both small and large intestine without perforation or abscess
+K57.8	Diverticulitis of intestine, part unspecified, with perforation and abscess
+K57.9	Diverticular disease of intestine, part unspecified, without perforation or abscess
+K58.0	Irritable bowel syndrome with diarrhea
+K58.1	Irritable bowel syndrome with constipation
+K58.2	Mixed irritable bowel syndrome
+K58.8	Other irritable bowel syndrome
+K58.9	Irritable bowel syndrome without diarrhea
+K59.0	Constipation
+K59.1	Functional diarrhea
+K59.2	Neurogenic bowel
+K59.3	Megacolon
+K59.4	Anal spasm
+K59.8	Other specified functional intestinal disorders
+K59.9	Functional intestinal disorder
+K60.0	Acute anal fissure
+K60.1	Chronic anal fissure
+K60.2	Anal fissure
+K60.3	Anal fistula
+K60.4	Rectal fistula
+K60.5	Anorectal fistula
+K61.0	Anal abscess
+K61.1	Rectal abscess
+K61.2	Anorectal abscess
+K61.3	Ischiorectal abscess
+K61.4	Intrasphincteric abscess
+K61.5	Supralevator abscess
+K62.0	Anal polyp
+K62.1	Rectal polyp
+K62.2	Anal prolapse
+K62.3	Rectal prolapse
+K62.4	Stenosis of anus and rectum
+K62.5	Hemorrhage of anus and rectum
+K62.6	Ulcer of anus and rectum
+K62.7	Radiation proctitis
+K62.8	Other specified diseases of anus and rectum
+K62.9	Disease of anus and rectum
+K63.0	Abscess of intestine
+K63.1	Perforation of intestine (nontraumatic)
+K63.2	Fistula of intestine
+K63.3	Ulcer of intestine
+K63.4	Enteroptosis
+K63.5	Polyp of colon
+K63.8	Other specified diseases of intestine
+K63.9	Disease of intestine
+K64.0	First degree hemorrhoids
+K64.1	Second degree hemorrhoids
+K64.2	Third degree hemorrhoids
+K64.3	Fourth degree hemorrhoids
+K64.4	Residual hemorrhoidal skin tags
+K64.5	Perianal venous thrombosis
+K64.8	Other hemorrhoids
+K64.9	Unspecified hemorrhoids
+K65.0	Generalized (acute) peritonitis
+K65.1	Peritoneal abscess
+K65.2	Spontaneous bacterial peritonitis
+K65.3	Choleperitonitis
+K65.4	Sclerosing mesenteritis
+K65.8	Other peritonitis
+K65.9	Peritonitis
+K68.1	Retroperitoneal abscess
+K68.9	Other disorders of retroperitoneum
+K70.0	Alcoholic fatty liver
+K70.1	Alcoholic hepatitis
+K70.2	Alcoholic fibrosis and sclerosis of liver
+K70.3	Alcoholic cirrhosis of liver
+K70.4	Alcoholic hepatic failure
+K70.9	Alcoholic liver disease
+K71.0	Toxic liver disease with cholestasis
+K71.1	Toxic liver disease with hepatic necrosis
+K71.2	Toxic liver disease with acute hepatitis
+K71.3	Toxic liver disease with chronic persistent hepatitis
+K71.4	Toxic liver disease with chronic lobular hepatitis
+K71.5	Toxic liver disease with chronic active hepatitis
+K71.6	Toxic liver disease with hepatitis
+K71.7	Toxic liver disease with fibrosis and cirrhosis of liver
+K71.8	Toxic liver disease with other disorders of liver
+K71.9	Toxic liver disease
+K72.0	Acute and subacute hepatic failure
+K72.1	Chronic hepatic failure
+K72.9	Hepatic failure
+K73.0	Chronic persistent hepatitis
+K73.1	Chronic lobular hepatitis
+K73.2	Chronic active hepatitis
+K73.8	Other chronic hepatitis
+K73.9	Chronic hepatitis
+K74.0	Hepatic fibrosis
+K74.1	Hepatic sclerosis
+K74.2	Hepatic fibrosis with hepatic sclerosis
+K74.3	Primary biliary cirrhosis
+K74.4	Secondary biliary cirrhosis
+K74.5	Biliary cirrhosis
+K74.6	Other and unspecified cirrhosis of liver
+K75.0	Abscess of liver
+K75.1	Phlebitis of portal vein
+K75.2	Nonspecific reactive hepatitis
+K75.3	Granulomatous hepatitis
+K75.4	Autoimmune hepatitis
+K75.8	Other specified inflammatory liver diseases
+K75.9	Inflammatory liver disease
+K76.0	Fatty (change of) liver
+K76.1	Chronic passive congestion of liver
+K76.2	Central hemorrhagic necrosis of liver
+K76.3	Infarction of liver
+K76.4	Peliosis hepatis
+K76.5	Hepatic veno-occlusive disease
+K76.6	Portal hypertension
+K76.7	Hepatorenal syndrome
+K76.8	Other specified diseases of liver
+K76.9	Liver disease
+K80.0	Calculus of gallbladder with acute cholecystitis
+K80.1	Calculus of gallbladder with other cholecystitis
+K80.2	Calculus of gallbladder without cholecystitis
+K80.3	Calculus of bile duct with cholangitis
+K80.4	Calculus of bile duct with cholecystitis
+K80.5	Calculus of bile duct without cholangitis or cholecystitis
+K80.6	Calculus of gallbladder and bile duct with cholecystitis
+K80.7	Calculus of gallbladder and bile duct without cholecystitis
+K80.8	Other cholelithiasis
+K81.0	Acute cholecystitis
+K81.1	Chronic cholecystitis
+K81.2	Acute cholecystitis with chronic cholecystitis
+K81.9	Cholecystitis
+K82.0	Obstruction of gallbladder
+K82.1	Hydrops of gallbladder
+K82.2	Perforation of gallbladder
+K82.3	Fistula of gallbladder
+K82.4	Cholesterolosis of gallbladder
+K82.8	Other specified diseases of gallbladder
+K82.9	Disease of gallbladder
+K82.A	Disorders of gallbladder in diseases classified elsewhere
+K83.0	Cholangitis
+K83.1	Obstruction of bile duct
+K83.2	Perforation of bile duct
+K83.3	Fistula of bile duct
+K83.4	Spasm of sphincter of Oddi
+K83.5	Biliary cyst
+K83.8	Other specified diseases of biliary tract
+K83.9	Disease of biliary tract
+K85.0	Idiopathic acute pancreatitis
+K85.1	Biliary acute pancreatitis
+K85.2	Alcohol induced acute pancreatitis
+K85.3	Drug induced acute pancreatitis
+K85.8	Other acute pancreatitis
+K85.9	Acute pancreatitis
+K86.0	Alcohol-induced chronic pancreatitis
+K86.1	Other chronic pancreatitis
+K86.2	Cyst of pancreas
+K86.3	Pseudocyst of pancreas
+K86.8	Other specified diseases of pancreas
+K86.9	Disease of pancreas
+K90.0	Celiac disease
+K90.1	Tropical sprue
+K90.2	Blind loop syndrome
+K90.3	Pancreatic steatorrhea
+K90.4	Other malabsorption due to intolerance
+K90.8	Other intestinal malabsorption
+K90.9	Intestinal malabsorption
+K92.0	Hematemesis
+K92.1	Melena
+K92.2	Gastrointestinal hemorrhage
+K92.8	Other specified diseases of the digestive system
+K92.9	Disease of digestive system
+K94.0	Colostomy complications
+K94.1	Enterostomy complications
+K94.2	Gastrostomy complications
+K94.3	Esophagostomy complications
+K95.0	Complications of gastric band procedure
+K95.8	Complications of other bariatric procedure

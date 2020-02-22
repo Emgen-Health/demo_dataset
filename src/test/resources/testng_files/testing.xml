@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Testing" parallel="methods" thread-count="250">
+    <test name="Generate Codes">
+        <classes>
+            <class name="icd_10.generate_multi_codes.testing_classes.TestThreeI"/>
+            <class name="icd_10.generate_multi_codes.testing_classes.TestThreeK"/>
+            <class name="icd_10.generate_multi_codes.testing_classes.TestTwoI"/>
+            <class name="icd_10.generate_multi_codes.testing_classes.TestTwoK"/>
+        </classes>
+    </test>
+</suite>

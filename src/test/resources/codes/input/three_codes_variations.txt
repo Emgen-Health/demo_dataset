@@ -1,0 +1,101 @@
+Sentence Variation	Disease A	How Disease A Ends	Conjunction	Disease B	How Disease B Ends	Conjunction	Disease B	How Disease B Ends
+After a patient assessment, it showed that she suffered from.	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+After a patient assessment, it shows his suffering from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+After a patient assessment, it shows her suffering from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+After patient observation, it shows his suffering from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+After patient observation, it shows her suffering from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+After patient examination, it shows his suffering from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+After patient examination, it shows her suffering from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Lab results for Sally confirmed she is suffering from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Lab results for Adam confirmed he is suffering from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Sally lab results confirmed she is suffering from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Adam lab results confirmed he is suffering from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Test results for Sally confirmed she is suffering from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Test results for Adam confirmed he is suffering from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Sally test results confirmed she is suffering from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Adam test results confirmed he is suffering from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+The result of checking Adam shows he has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+The result of checking Sally shows she has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Based on a patient complaint and after the lab result, it was found that she suffers from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Based on a patient complaint and after the lab result, it was found that he suffers from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Based on the patient complaint and after the lab result, it was found that she is suffering from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Based on the patient complaint and after the lab result, it was found that he is suffering from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Based on sally's complaint and after the lab result, it was found that she suffers from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Based on Adam's complaint and after the lab result, it was found that he suffers from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Based on Sally's complaint and after the lab result, it was found that she is suffering from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Based on Adam's complaint and after the lab result, it was found that he is suffering from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Sign and symptom indicate the presence of	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Symptom indicates the presence of	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+The sign indicates the presence of	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+After reviewing lab results, he seems to be suffering from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+After reviewing lab results, she seems to be suffering from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+After reviewing lab results Adam seems to be suffering from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+After reviewing lab results sally seems to be suffering from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+My diagnosis of the pathological condition Adam experiences	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+My diagnosis of the pathological condition Sally experiences	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+My diagnosis of the pathological condition, Adam suffers	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+My diagnosis of the pathological condition, Sally suffers	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+My medical opinion of the pathological condition, Adam suffers	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+My medical opinion of the pathological condition, Sally suffers	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+In my medical opinion of the pathological condition, Adam suffers	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+In my medical opinion of the pathological condition, Sally suffers	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Sign and symptom indicate the existence of	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Symptom indicates the existence of	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+The sign indicates the existence of	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Signs and symptoms indicate the existence of	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Symptoms indicates the existence of	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Signs indicates the existence of	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+After examination patient I found she has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+After examination patient I found he has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+After examination patient Adam I found he has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+After examination patient Sally I found she has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+My observation of Sally I found she has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+The result of examining the patient he has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+The result of examining the patient she has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+So far I found in Adam examination results that he has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+So far I found in Sally examination results that she has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Lab results for Sally confirmed she has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Lab results for Adam confirmed he has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+based on latest results and also current physical examination of Adam he has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+based on latest results and also current physical examination of Sally she has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+It is with certainty that Adam has symptoms of	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+It is with certainty that Sally has symptoms of	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+My evaluation for the patient condition is that she has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+My evaluation for the patient condition is that he has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+After examination patient we found she has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+After examination patient we found he has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+After examination patient Adam we found he has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+After examination patient Sally we found she has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+My observation of Sally we found she has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+So far we found in Adam examination results that he has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+So far we found in Sally examination results that she has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+My evaluation for patient condition is that she has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+My evaluation for patient condition is that he has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+The patient suffers from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+She suffers from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+He suffers from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+After examining the patient I found that he suffers from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+After examining the patient I found that she suffers from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+The result of examining the patient that he has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+The result of examining the patient that she has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+I found in the examination results that the patient has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+I found in the examination results that he has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+I found in the examination results that she has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Lab results for the patient confirms that he has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Lab results for the patient confirms that she has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Based on latest results and the physical examination of the patient she has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Based on latest results and the physical examination of the patient he has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+The patient has the symptoms of	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+He has the symptoms of	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+She has the symptoms of	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Patient with	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+Patient hospitalized with	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+The patient was reported onset of	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+After examining the patient we found that he suffers from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+After examining the patient we found that she suffers from	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+The result of test the patient had that he has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+The result of test the patient had that she has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+The result of lab showed the patient has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+The result of lab showed patient has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+The result of lab showed Adam has	disease_name	blank	and	disease_name	blank	and	disease_name	blank
+The result of lab showed that he has	disease_name	blank	and	disease_name	blank	and	disease_name	blank

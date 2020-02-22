@@ -1,0 +1,101 @@
+Sentence Variation	Disease A	How Disease A Ends	Conjunction	Disease B	How Disease B Ends
+We found he is suffering from	disease_name	blank	and	disease_name	decided by physical checkup
+We found she is suffering from	disease_name	blank	and	disease_name	decided by physical checkup
+I found he is suffering from	disease_name	blank	and	disease_name	decided by physical checkup
+I found she is suffering from	disease_name	blank	and	disease_name	decided by physical checkup
+After a clinical examination, it was found that he suffers from	disease_name	blank	and	disease_name	blank
+After a clinical examination, it was found that she suffers from	disease_name	blank	and	disease_name	blank
+Test result confirmed that he had	disease_name	blank	and	disease_name	blank
+Test result confirmed that she had	disease_name	blank	and	disease_name	blank
+He seems to be suffering from	disease_name	blank	and	disease_name	after reviewing the results of the tests.
+she seems to be suffering from	disease_name	blank	and	disease_name	after reviewing the results of the tests.
+It looks like he is suffering from	disease_name	blank	and	disease_name	based on the lab result
+It looks like she is suffering from	disease_name	blank	and	disease_name	based on the lab result
+It appears that he is suffering from	disease_name	blank	and	disease_name	based on the lab result
+It appears that she is suffering from	disease_name	blank	and	disease_name	based on the lab result
+Signs and symptoms indicate the presence of	disease_name	blank	and	disease_name	blank
+Symptoms indicate the presence of	disease_name	blank	and	disease_name	blank
+Signs indicate the presence of	disease_name	blank	and	disease_name	blank
+It looks like he is suffering from	disease_name	blank	and	disease_name	based on my examination
+It looks like she is suffering from	disease_name	blank	and	disease_name	based on my examination
+It appears that he is suffering from	disease_name	blank	and	disease_name	based on my examination
+It appears that she is suffering from	disease_name	blank	and	disease_name	based on my examination
+It looks like he is suffering from	disease_name	blank	and	disease_name	based on test result
+It looks like she is suffering from	disease_name	blank	and	disease_name	based on test result
+It appears that he is suffering from	disease_name	blank	and	disease_name	based on test result
+It appears that she is suffering from	disease_name	blank	and	disease_name	based on test result
+He seems to be suffering from	disease_name	blank	and	disease_name	after reviewing the lab results
+she seems to be suffering from	disease_name	blank	and	disease_name	after reviewing the lab results
+He seems to be suffering from	disease_name	blank	and	disease_name	based on my examination
+she seems to be suffering from	disease_name	blank	and	disease_name	based on my examination
+He seems to be suffering from	disease_name	blank	and	disease_name	based on my observation
+she seems to be suffering from	disease_name	blank	and	disease_name	based on my observation
+He seems to be suffering from	disease_name	blank	and	disease_name	based on my assessment
+she seems to be suffering from	disease_name	blank	and	disease_name	based on my assessment
+It looks like he is suffering from	disease_name	blank	and	disease_name	decided by physical checkup
+It looks like she is suffering from	disease_name	blank	and	disease_name	decided by physical checkup
+It appears that he is suffering from	disease_name	blank	and	disease_name	decided by physical checkup
+It appears that she is suffering from	disease_name	blank	and	disease_name	decided by physical checkup
+He seems to be suffering from	disease_name	blank	and	disease_name	decided by physical checkup
+she seems to be suffering from	disease_name	blank	and	disease_name	decided by physical checkup
+It looks like he is suffering from	disease_name	blank	and	disease_name	decided by clinical examination
+It looks like she is suffering from	disease_name	blank	and	disease_name	decided by clinical examination
+It appears that he is suffering from	disease_name	blank	and	disease_name	decided by clinical examination
+It appears that she is suffering from	disease_name	blank	and	disease_name	decided by clinical examination
+He seems to be suffering from	disease_name	blank	and	disease_name	decided by clinical examination
+she seems to be suffering from	disease_name	blank	and	disease_name	decided by clinical examination
+After reviewing the lab results he seems to be suffering from	disease_name	blank	and	disease_name	blank
+after reviewing the lab results she seems to be suffering from	disease_name	blank	and	disease_name	blank
+after reviewing the results of the tests he seems to be suffering from	disease_name	blank	and	disease_name	blank
+after reviewing the results of the tests she seems to be suffering from	disease_name	blank	and	disease_name	blank
+My diagnosis of the pathological condition he experiences is a	disease_name	blank	and	disease_name	blank
+My diagnosis of the pathological condition she experiences is a	disease_name	blank	and	disease_name	blank
+My diagnosis is	disease_name	blank	and	disease_name	blank
+She was diagnosed with	disease_name	blank	and	disease_name	blank
+He was diagnosed with	disease_name	blank	and	disease_name	blank
+My diagnosis of the pathological condition he suffers is a	disease_name	blank	and	disease_name	blank
+My diagnosis of the pathological condition she suffers is a	disease_name	blank	and	disease_name	blank
+My medical opinion of the pathological condition he suffers is a	disease_name	blank	and	disease_name	blank
+My medical opinion of the pathological condition she suffers is a	disease_name	blank	and	disease_name	blank
+In my medical opinion, he is suffering from	disease_name	blank	and	disease_name	blank
+In my medical opinion, she is suffering from	disease_name	blank	and	disease_name	blank
+After medical checkup for his symptoms, it's apparent that suffers from	disease_name	blank	and	disease_name	blank
+After medical checkup for her symptoms, it's apparent that suffers from	disease_name	blank	and	disease_name	blank
+My diagnosis for his symptoms is	disease_name	blank	and	disease_name	blank
+My diagnosis for her symptoms is	disease_name	blank	and	disease_name	blank
+My medical opinion for her symptoms is	disease_name	blank	and	disease_name	blank
+My medical opinion for his symptoms is	disease_name	blank	and	disease_name	blank
+After an examination for my patient, I found he has	disease_name	blank	and	disease_name	blank
+After an examination for my patient, I found she has	disease_name	blank	and	disease_name	blank
+After an examination for my patient, we found he has	disease_name	blank	and	disease_name	blank
+After an examination for my patient, we found she has	disease_name	blank	and	disease_name	blank
+After an examination for Adam, I found he has	disease_name	blank	and	disease_name	blank
+After an examination for sally, I found she has	disease_name	blank	and	disease_name	blank
+After an examination for Adam, we found he has	disease_name	blank	and	disease_name	blank
+After an examination for sally, we found she has	disease_name	blank	and	disease_name	blank
+Based on my observation for all symptoms its appear that Adam suffers from	disease_name	blank	and	disease_name	blank
+Based on my observation for every symptom its appear that Adam suffers from	disease_name	blank	and	disease_name	blank
+Based on my observation for symptom its appear that Adam suffers from	disease_name	blank	and	disease_name	blank
+Based on my examination for all symptoms its appear that Adam suffers from	disease_name	blank	and	disease_name	blank
+Based on my examination for every symptom its appear that Adam suffers from	disease_name	blank	and	disease_name	blank
+Based on my examination for symptom its appear that Adam suffers from	disease_name	blank	and	disease_name	blank
+Based on my assessment for all symptoms its appear that Adam suffers from	disease_name	blank	and	disease_name	blank
+Based on my assessment for every symptom its appear that Adam suffers from	disease_name	blank	and	disease_name	blank
+Based on my assessment for symptom its appear that Adam suffers from	disease_name	blank	and	disease_name	blank
+Based on the patient's complaint and after examination, it was found that he suffers from	disease_name	blank	and	disease_name	blank
+Based on the patient's complaint and after examination, it was found that she suffers from	disease_name	blank	and	disease_name	blank
+Based on the patient's complaint and after observation, it was found that he suffers from	disease_name	blank	and	disease_name	blank
+Based on the patient's complaint and after observation, it was found that she suffers from	disease_name	blank	and	disease_name	blank
+Based on the patient's complaint and after assessment, it was found that he suffers from	disease_name	blank	and	disease_name	blank
+Based on the patient's complaint and after assessment, it was found that she suffers from	disease_name	blank	and	disease_name	blank
+Based on Adam complaint and after examination, it was found that he suffers from	disease_name	blank	and	disease_name	blank
+Based on Sally complaint and after examination, it was found that she suffers from	disease_name	blank	and	disease_name	blank
+Based on Adam complaint and after observation, it was found that he suffers from	disease_name	blank	and	disease_name	blank
+Based on Sally complaint and after observation, it was found that she suffers from	disease_name	blank	and	disease_name	blank
+Based on Adam complaint and after assessment, it was found that he suffers from	disease_name	blank	and	disease_name	blank
+Based on Sally complaint and after assessment, it was found that she suffers from	disease_name	blank	and	disease_name	blank
+After examining Adam, it showed that he suffered from	disease_name	blank	and	disease_name	blank
+After examining Sally, it showed that she suffered from	disease_name	blank	and	disease_name	blank
+After observation Adam, it showed that he suffered from	disease_name	blank	and	disease_name	blank
+After observation Sally, it showed that she suffered from	disease_name	blank	and	disease_name	blank
+After a patient assessment, it showed that he suffered from.	disease_name	blank	and	disease_name	blank
