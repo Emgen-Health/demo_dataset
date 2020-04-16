@@ -5,8 +5,6 @@
         <classes>
             <class name="icd_10.generate_multi_codes.testing_classes.TestThreeI"/>
             <class name="icd_10.generate_multi_codes.testing_classes.TestThreeK"/>
-            <class name="icd_10.generate_multi_codes.testing_classes.TestTwoI"/>
-            <class name="icd_10.generate_multi_codes.testing_classes.TestTwoK"/>
         </classes>
     </test>
 </suite>
